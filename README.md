@@ -39,5 +39,6 @@ I am a self-taught novice developer <img src="https://media.giphy.com/media/WUlp
 </div>
 
 ---
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bigbluepie&theme=dark)](https://git.io/streak-stats)
