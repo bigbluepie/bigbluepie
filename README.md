@@ -37,3 +37,7 @@ I am a self-taught novice developer <img src="https://media.giphy.com/media/WUlp
   <img src="https://store.speedtree.com/site-assets/uploads/Unity-Logo-White.png" title="UnityEngine" **alt="UnityEngine" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbluepie)](https://github.com/anuraghazra/github-readme-stats)
