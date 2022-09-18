@@ -22,7 +22,7 @@
 </div>
 <div>
   
-I am a self-taught novice developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russian Federation.
+I am a self-taught novice developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 </div>
 <div>
   
