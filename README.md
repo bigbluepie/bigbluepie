@@ -27,4 +27,8 @@ I am a self-taught novice developer <img src="https://media.giphy.com/media/WUlp
 - :zap: In my free time, I develop an indie game and draw graphics for it in the pixelart style.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BigBluePie)
+  
+---
+
+### :hammer_and_wrench: Languages and Tools :
 </div>
