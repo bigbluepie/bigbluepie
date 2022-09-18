@@ -2,6 +2,10 @@
   <img src="https://media2.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif?cid=790b761189a458adc1aec66773b66fb037b7969dedd956bb&rid=giphy.gif&ct=s" width="200"/>
 </div>
 <div id="badges" align="center">
+  <a href="https://www.codewars.com/users/bigbluepie">
+  <img src="https://img.shields.io/badge/CODEWARS-critical?logo=codewars&logoColor=black&style=for-the-badge"/>
+  </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=bigbluepie&style=flat-square&color=blue" alt=""/>
   <h1>
     hey there
@@ -44,3 +48,5 @@ I am a self-taught novice developer <img src="https://media.giphy.com/media/WUlp
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bigbluepie&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbluepie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://www.codewars.com/users/bigbluepie/badges/large"/>
