@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/YRMb6dd7zprS00JdGZ" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/keyweemotion-8bit-moody-moodiaan-YRMb6dd7zprS00JdGZ">via GIPHY</a></p>" width="100"/>
+  <img src="https://media2.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=790b761118a487ee668e49ebfcb03f59b949fba23065e63c&rid=giphy.gif&ct=s" width="100"/>
 </div>
