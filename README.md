@@ -38,7 +38,7 @@ I am a self-taught novice developer <img src="https://media.giphy.com/media/WUlp
 </div>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="С#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://store.speedtree.com/site-assets/uploads/Unity-Logo-White.png" title="UnityEngine" **alt="UnityEngine" width="70" height="40"/>&nbsp;
+  <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/unity-engine-adding-dlss/geforce-rtx-unity-nvidia-dlss-integration-ogimage.jpg" title="UnityEngine" **alt="UnityEngine" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
