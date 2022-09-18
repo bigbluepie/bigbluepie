@@ -13,9 +13,11 @@
   <img src="https://media1.giphy.com/media/FjGEQSybauJqM/giphy.gif?cid=790b7611949e0ca47ccf87019095048dec402908b55271f3&rid=giphy.gif&ct=g" width="550" height="300"/>
 </div>
 <div>
+  
 ### :man_technologist: About Me :
 </div>
 <div>
+  
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 </div>
 <div>
